@@ -1,0 +1,6 @@
+[submodule "uv_doctor_frontend"]
+	path = uv_doctor_frontend
+	url = https://github.com/drive087/uv_doctor_frontend.git
+[submodule "uv_doctor_backend"]
+	path = uv_doctor_backend
+	url = https://github.com/foamtsp/uv_doctor_backend.git
